@@ -15,3 +15,7 @@ Navigate into the root directory of the project and run
 ```
 ./gradlew clean test
 ```
+
+## Notes
+
+When running in a Mac, you may need to set the below to allow chomedriver to run
